@@ -1,0 +1,7 @@
+# API for a ToDo App
+
+## CREATE TODO
+## GET ALL TODOS
+## GET TODO BY ID
+## EDIT TODO
+## DELETE TODO
